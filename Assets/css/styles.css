@@ -871,7 +871,9 @@ h3.qualification__title {
 /*============== FOOTER ============*/
 
 .footer__link{
-    font-size: var(--medium-font-size);
+    font-size: var(--h1-font-size);
+    font-weight: var(--font-semi-bold);
+    margin-bottom: 1rem;
     text-align: center;
     color: var(--title-color);
     transition: color .3s;

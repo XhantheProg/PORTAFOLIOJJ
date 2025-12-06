@@ -406,6 +406,11 @@ body.dark-theme {
     font-size: var(--h1-font-size);
     font-weight: var(--font-semi-bold);
 }
+
+.home__info-description__link{
+    color: var(--text-color);
+    font-weight: var(--font-semi-bold);
+}
 /*--============ SKILLS ============*/
 .skills.section {
     display: flex;

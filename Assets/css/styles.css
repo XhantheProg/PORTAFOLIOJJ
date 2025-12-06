@@ -343,7 +343,8 @@ body.dark-theme {
 }
 
 .home__perfil img{
-    width: 150px;
+    height: 400px;
+    width: 400px;
 }
 
 .home__shape-waves,

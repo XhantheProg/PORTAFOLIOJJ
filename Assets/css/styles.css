@@ -870,6 +870,14 @@ h3.qualification__title {
 
 /*============== FOOTER ============*/
 
+.footer__link{
+    font-size: var(--medium-font-size);
+    text-align: center;
+    color: var(--title-color);
+    transition: color .3s;
+    outline: none; 
+}
+
 .footer__container{
     padding:3rem 0 7rem;
     text-align: center;

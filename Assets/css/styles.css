@@ -344,7 +344,7 @@ body.dark-theme {
 
 .home__perfil img{
     height: 400px;
-    width: 400px;
+    width: 400px !important;
 }
 
 .home__shape-waves,

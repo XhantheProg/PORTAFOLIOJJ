@@ -343,8 +343,8 @@ body.dark-theme {
 }
 
 .home__perfil img{
-    height: 400px;
-    width: 400px !important;
+    height: auto;
+    width: 400px ;
 }
 
 .home__shape-waves,
@@ -1002,6 +1002,12 @@ h3.qualification__title {
         width: 200px;
         justify-self: center;
     }
+
+    .home__perfil img{
+        height: 200px;
+        width: auto ;
+    }
+    
     
 }
 
@@ -1187,9 +1193,8 @@ h3.qualification__title {
         height: 520px;
         border-radius: 10.6rem;
     }
-    .home__perfil img{
-        width: 300px;
-    }
+    
+    
     .home__shape-waves{
         width: 100px;
         left: -4rem;
